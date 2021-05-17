@@ -1,3 +1,3 @@
 # web-dev-stuff
 
-simple miscellaneous web deployment projects :)
+simple miscellaneous web development projects :)
