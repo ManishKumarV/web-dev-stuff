@@ -1,0 +1,13 @@
+#ball {
+    width: 15vw;
+    height: 15vw;
+    border-radius: 50%;
+    background-color: rgb(243, 52, 52);
+    position: absolute;
+    top: 45%;
+    left: 45%;
+}
+
+body{
+    background-color: lightblue;
+}
