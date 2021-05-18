@@ -11,6 +11,6 @@ simple miscellaneous web development projects :)
 
 🔗https://vmk-movetheball-game.netlify.app
 
-🔗https://vmk-calculator.netlify.app
+🔗https://vmk-ping-pong-game.netlify.app
 
 🔗https://vmk-singledigitcounter.netlify.app
